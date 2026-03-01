@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=69C8F7&center=true&width=435&lines=Seja+bem-vindo(a)+meu+perfil!;Me+chamo+Daniel+Barbosa!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=69C8F7&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)+meu+perfil!;Me+chamo+Daniel+Barbosa!)](https://git.io/typing-svg)
 
 ###
 
